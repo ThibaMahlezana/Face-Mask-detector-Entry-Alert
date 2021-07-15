@@ -21,3 +21,8 @@ $ python main.py
 ![alt text](https://github.com/ThibaMahlezana/Face-Mask-detector-Entry-Alert/blob/main/IMG_E4687.JPG)
 ![alt text](https://github.com/ThibaMahlezana/Face-Mask-detector-Entry-Alert/blob/main/IMG_E4688.JPG)
 ![alt text](https://github.com/ThibaMahlezana/Face-Mask-detector-Entry-Alert/blob/main/Face%20Mask%20Detector%20system.PNG)
+
+# Thanks
+
+https://github.com/jrosebr1
+https://www.pyimagesearch.com/
