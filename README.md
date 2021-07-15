@@ -24,5 +24,5 @@ $ python main.py
 
 # Thanks
 
-https://github.com/jrosebr1
-https://www.pyimagesearch.com/
+- https://github.com/jrosebr1
+- https://www.pyimagesearch.com/
