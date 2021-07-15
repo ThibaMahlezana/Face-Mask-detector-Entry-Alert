@@ -1,4 +1,4 @@
-# Face-Mask-detector-Entry-Alert
+# 😷 Face-Mask-detector-Entry-Alert
 
 Due to covid-19 Pandemic where people where adviced to wear masks and keep social distancing to contain the virus, I have decided to make a python application to enforce that.
 This is a system to detect people if they are wearing mask or not on the entry point.
