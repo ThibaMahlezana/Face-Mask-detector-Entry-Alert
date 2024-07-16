@@ -1,0 +1,7 @@
+opencv-python
+tensorflow
+tensorflow-lite
+numpy
+imutils
+pygame
+PyQt5
